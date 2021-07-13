@@ -1,5 +1,5 @@
 <?php
-define('API_KEY','1698964313:AAGDCyRQYNcw3bicNuz0NuczB9YB4OaB4Wc');  //Botiz tokeni
+define('API_KEY','1698964313:AAHsLDcS10G-326LJxwLF5IjHoO-yhxqGs4');  //Botiz tokeni
 $admin = "1612870920"; 
 $ver = "7.4.1";
 $group = "1612870920";
